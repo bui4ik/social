@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+}
+
+.current_page {
+  font-weight: 600;
+  color: #42a5f5;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.page {
+  font-weight: 400;
+  color: #42a5f5;
+  margin-right: 10px;
+  cursor: pointer;
+}
